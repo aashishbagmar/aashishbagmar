@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:8b5cf6,100:a855f7&amp;height=180&amp;section=header&amp;text=Aashish%20Bagmar&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20and%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=55&amp;descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:14b8a6,100:06b6d4&amp;height=180&amp;section=header&amp;text=Aashish%20Bagmar&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20and%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems&amp;descAlignY=55&amp;descSize=16"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=8B5CF6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+and+Deep+Learning;RAG+and+LLM+Applications;Healthcare+Voice+AI;Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=14b8a6&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+and+Deep+Learning;RAG+and+LLM+Applications;Healthcare+Voice+AI;Full-Stack+Development" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&color=6366f1)](https://github.com/aashishbagmar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&color=8b5cf6)](https://github.com/aashishbagmar)
-[![Profile Views](https://komarev.com/ghpvc/?username=aashishbagmar&label=Profile%20Views&color=a855f7&style=for-the-badge)](https://github.com/aashishbagmar)
+[![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&color=0ea5e9)](https://github.com/aashishbagmar?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&color=14b8a6)](https://github.com/aashishbagmar)
+[![Profile Views](https://komarev.com/ghpvc/?username=aashishbagmar&label=Profile%20Views&color=06b6d4&style=for-the-badge)](https://github.com/aashishbagmar)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aashishbagmar.github.io-6366f1?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashishbagmar.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aashishbagmar.github.io-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashishbagmar.github.io)
 [![Email](https://img.shields.io/badge/Email-bagmaraashish@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:bagmaraashish@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aashishbagmar)
 
@@ -26,12 +26,10 @@
 
 ### 👋 About Me
 
-**Hi, I'm [Aashish Bagmar](https://github.com/aashishbagmar)** 👋
-
-![Role](https://img.shields.io/badge/Role-AI%20and%20ML%20Engineer-8B5CF6?style=flat-square)
-![Location](https://img.shields.io/badge/Location-India-6366f1?style=flat-square)
-![Education](https://img.shields.io/badge/Education-B.E.%20AI%20and%20Data%20Science%20(SPPU)-a855f7?style=flat-square)
-![Mindset](https://img.shields.io/badge/Mindset-Always%20learning%20new%20tech-a855f7?style=flat-square)
+![Role](https://img.shields.io/badge/Role-AI%20and%20ML%20Engineer-14b8a6?style=flat-square)
+![Location](https://img.shields.io/badge/Location-India-0ea5e9?style=flat-square)
+![Education](https://img.shields.io/badge/Education-B.E.%20AI%20and%20Data%20Science%20(SPPU)-06b6d4?style=flat-square)
+![Mindset](https://img.shields.io/badge/Mindset-Always%20learning%20new%20tech-06b6d4?style=flat-square)
 
 > *Always ready to try new technologies — I build intelligent systems that solve real-world problems and make everything feel colorful.* 🚀
 
@@ -57,7 +55,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
       <p>Healthcare AI voice agent & ML pipeline — patient check-ins, medical adherence extraction, and real-time clinical risk prediction. Built for <strong>VoiceHack 2026</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
-        <img src="https://img.shields.io/badge/Voice%20AI-8B5CF6?style=flat"/>
+        <img src="https://img.shields.io/badge/Voice%20AI-14b8a6?style=flat"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&amp;logo=scikit-learn&amp;logoColor=white"/>
       </p>
     </td>
@@ -112,7 +110,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 <p align="center">
   <a href="https://github.com/aashishbagmar?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%2036%20Repositories-6366f1?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20All%2036%20Repositories-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </p>
 
@@ -159,18 +157,18 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/aashishbagmar?label=Stars&amp;style=for-the-badge&amp;color=8b5cf6"/>
-  <img alt="Public Repos" src="https://img.shields.io/github/public-repos/aashishbagmar?label=Public%20Repos&amp;style=for-the-badge&amp;color=6366f1"/>
-  <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?label=Followers&amp;style=for-the-badge&amp;color=a855f7"/>
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/aashishbagmar?label=Stars&amp;style=for-the-badge&amp;color=14b8a6"/>
+  <img alt="Public Repos" src="https://img.shields.io/github/public-repos/aashishbagmar?label=Public%20Repos&amp;style=for-the-badge&amp;color=0ea5e9"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?label=Followers&amp;style=for-the-badge&amp;color=06b6d4"/>
 </p>
 
 <p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;icon_color=6366f1&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
-  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;icon_color=0ea5e9&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6366f1&amp;fire=8B5CF6&amp;currStreakLabel=8B5CF6"/>
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=0ea5e9&amp;fire=14b8a6&amp;currStreakLabel=14b8a6"/>
 </p>
 
 <sub>Stats are fetched from the GitHub API. Badge counts update frequently; chart cards may take a few hours to refresh because GitHub caches README images.</sub>
@@ -190,7 +188,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aashishbagmar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashish.codes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashish.codes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:bagmaraashish@gmail.com)
 
 <br/><br/>
@@ -203,7 +201,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:8b5cf6,100:a855f7&amp;height=100&amp;section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:14b8a6,100:06b6d4&amp;height=100&amp;section=footer"/>
 
 **Thanks for visiting!** If you like my work, consider giving a ⭐ to my repositories.
 
