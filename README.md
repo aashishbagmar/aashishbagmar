@@ -145,7 +145,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
@@ -158,14 +158,13 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 <p align="center">
   <img alt="Total Stars" src="https://img.shields.io/github/stars/aashishbagmar?label=Stars&amp;style=for-the-badge&amp;color=8b5cf6"/>
-  <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-36-6366f1?style=for-the-badge"/>
+  <img alt="Public Repos" src="https://img.shields.io/github/public-repos/aashishbagmar?label=Public%20Repos&amp;style=for-the-badge&amp;color=6366f1"/>
   <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?label=Followers&amp;style=for-the-badge&amp;color=a855f7"/>
-  <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/y/aashishbagmar?label=Commits%20(last%20year)&amp;style=for-the-badge&amp;color=512bd4"/>
 </p>
 
 <p align="center">
   <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;icon_color=6366f1&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
-  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;cache_seconds=60"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
 </p>
 
 <p align="center">
