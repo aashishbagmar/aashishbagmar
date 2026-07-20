@@ -157,13 +157,22 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;icon_color=6366f1&amp;text_color=c9d1d9"/>
-  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=8"/>
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/aashishbagmar?label=Stars&amp;style=for-the-badge&amp;color=8b5cf6"/>
+  <img alt="Public Repos" src="https://img.shields.io/badge/Public%20Repos-36-6366f1?style=for-the-badge"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?label=Followers&amp;style=for-the-badge&amp;color=a855f7"/>
+  <img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/y/aashishbagmar?label=Commits%20(last%20year)&amp;style=for-the-badge&amp;color=512bd4"/>
+</p>
+
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;icon_color=6366f1&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;cache_seconds=60"/>
 </p>
 
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6366f1&amp;fire=8B5CF6&amp;currStreakLabel=8B5CF6"/>
 </p>
+
+<sub>Stats are fetched from the GitHub API. Badge counts update frequently; chart cards may take a few hours to refresh because GitHub caches README images.</sub>
 
 ---
 
