@@ -28,28 +28,17 @@
 
 **Hi, I'm [Aashish Bagmar](https://github.com/aashishbagmar)** 👋
 
-```python
-class AashishBagmar:
-    def __init__(self):
-        self.name = "Aashish Bagmar"
-        self.role = "AI & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.education = "B.E. AI & Data Science — SPPU"
-        self.interests = [
-            "Large Language Models & RAG",
-            "Healthcare AI & Voice Agents",
-            "Computer Vision",
-            "Full-Stack Development",
-        ]
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-AI%20%26%20ML%20Engineer-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-India%20🇮🇳-6366f1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Education-B.E.%20AI%20%26%20Data%20Science%20—%20SPPU-a855f7?style=flat-square"/>
+</p>
 
-    def currently_building(self):
-        return "Intelligent systems that solve real-world problems"
-
-    def say_hi(self):
-        return "Let's connect and build something amazing! 🚀"
-```
+> *Building intelligent systems that solve real-world problems.* Let's connect and build something amazing! 🚀
 
 I'm an **AI & ML engineer** passionate about turning cutting-edge research into production-ready applications. From **healthcare voice agents** that predict clinical risk to **self-corrective RAG pipelines** — I love building systems that make a real impact.
+
+**Interests:** `Large Language Models & RAG` · `Healthcare AI & Voice Agents` · `Computer Vision` · `Full-Stack Development`
 
 - 🔭 Currently working on **AI agents**, **RAG systems**, and **ML pipelines**
 - 🌱 Exploring **LangGraph**, **voice AI**, and **edge ML deployment**
