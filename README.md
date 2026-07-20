@@ -130,13 +130,10 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,react,fastapi,nodejs,tensorflow,pytorch,docker,git,github,linux,postgres,vscode,vercel&perline=8" alt="Tech Stack"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -198,7 +195,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-aashishbagmar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishbagmar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aashishbagmar.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aashish.codes)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bagmaraashish@gmail.com)
 
 <br/><br/>
