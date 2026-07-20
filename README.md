@@ -156,26 +156,22 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;icon_color=6366f1&amp;text_color=c9d1d9"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=8"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;icon_color=6366f1&amp;text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8b5cf6&amp;text_color=c9d1d9&amp;langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6366f1&amp;fire=8B5CF6&amp;currStreakLabel=8B5CF6" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=6366f1&amp;fire=8B5CF6&amp;currStreakLabel=8B5CF6"/>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Highlights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aashishbagmar&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=4" alt="GitHub Trophies"/>
-
-</div>
+<p align="center">
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishbagmar&amp;theme=tokyo_night"/>
+</p>
 
 ---
 
