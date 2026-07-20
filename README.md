@@ -28,10 +28,6 @@
 
 **Hi, I'm [Aashish Bagmar](https://github.com/aashishbagmar)** 👋
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
 ```python
 class AashishBagmar:
     def __init__(self):
@@ -53,22 +49,13 @@ class AashishBagmar:
         return "Let's connect and build something amazing! 🚀"
 ```
 
-    </td>
-    <td valign="top" width="50%">
-
 I'm an **AI & ML engineer** passionate about turning cutting-edge research into production-ready applications. From **healthcare voice agents** that predict clinical risk to **self-corrective RAG pipelines** — I love building systems that make a real impact.
-
-<br/>
 
 - 🔭 Currently working on **AI agents**, **RAG systems**, and **ML pipelines**
 - 🌱 Exploring **LangGraph**, **voice AI**, and **edge ML deployment**
 - 💡 Hackathon builder — VoiceHack 2026, Meta Scaler & more
 - 📫 Reach me at **bagmaraashish@gmail.com**
 - ⚡ Fun fact: I port macOS apps to Windows for fun *(see Holo-For-Windows)*
-
-    </td>
-  </tr>
-</table>
 
 ---
 
