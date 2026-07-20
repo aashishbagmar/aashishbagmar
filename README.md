@@ -31,14 +31,16 @@
 ![Role](https://img.shields.io/badge/Role-AI%20and%20ML%20Engineer-8B5CF6?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-India-6366f1?style=flat-square)
 ![Education](https://img.shields.io/badge/Education-B.E.%20AI%20and%20Data%20Science%20(SPPU)-a855f7?style=flat-square)
+![Mindset](https://img.shields.io/badge/Mindset-Always%20learning%20new%20tech-a855f7?style=flat-square)
 
-> *Building intelligent systems that solve real-world problems.* Let's connect and build something amazing! 🚀
+> *Always ready to try new technologies — I build intelligent systems that solve real-world problems and make everything feel colorful.* 🚀
 
 I'm an **AI & ML engineer** passionate about turning cutting-edge research into production-ready applications. From **healthcare voice agents** that predict clinical risk to **self-corrective RAG pipelines** — I love building systems that make a real impact.
 
 **Interests:** `Large Language Models & RAG` · `Healthcare AI & Voice Agents` · `Computer Vision` · `Full-Stack Development`
 
 - 🔭 Currently working on **AI agents**, **RAG systems**, and **ML pipelines**
+- 🎨 Always ready to **try new technologies** — from voice AI to RAG to full-stack
 - 🌱 Exploring **LangGraph**, **voice AI**, and **edge ML deployment**
 - 💡 Hackathon builder — VoiceHack 2026, Meta Scaler & more
 - 📫 Reach me at **bagmaraashish@gmail.com**
