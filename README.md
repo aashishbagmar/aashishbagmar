@@ -26,34 +26,41 @@
 
 ### 👋 About Me
 
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+**AI & ML Engineer** · India 🇮🇳 · B.E. AI & Data Science, SPPU
+
+<br/>
+
+Turning cutting-edge research into **production-ready applications** — from healthcare voice agents that predict clinical risk to self-corrective RAG pipelines and full-stack products that ship.
+
+<br/>
+
 ```python
-class AashishBagmar:
-    def __init__(self):
-        self.name = "Aashish Bagmar"
-        self.role = "AI & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.education = "B.E. AI & Data Science — SPPU"
-        self.interests = [
-            "Large Language Models & RAG",
-            "Healthcare AI & Voice Agents",
-            "Computer Vision",
-            "Full-Stack Development",
-        ]
-
-    def currently_building(self):
-        return "Intelligent systems that solve real-world problems"
-
-    def say_hi(self):
-        return "Let's connect and build something amazing! 🚀"
+print("Building intelligent systems that solve real-world problems 🚀")
 ```
 
-I'm an **AI & ML engineer** passionate about turning cutting-edge research into production-ready applications. From **healthcare voice agents** that predict clinical risk to **self-corrective RAG pipelines** — I love building systems that make a real impact.
+    </td>
+    <td valign="top" width="45%">
 
-- 🔭 Currently working on **AI agents**, **RAG systems**, and **ML pipelines**
-- 🌱 Exploring **LangGraph**, **voice AI**, and **edge ML deployment**
-- 💡 Hackathon builder — VoiceHack 2026, Meta Scaler & more
-- 📫 Reach me at **bagmaraashish@gmail.com**
-- ⚡ Fun fact: I port macOS apps to Windows for fun *(see Holo-For-Windows)*
+**What I'm up to**
+
+- 🔭 **Building** AI agents, RAG systems & ML pipelines
+- 🌱 **Exploring** LangGraph, voice AI & edge deployment
+- 🏆 **Hackathons** VoiceHack 2026, Meta Scaler & more
+- 🖥️ **Side quest** Porting macOS apps to Windows → [Holo-For-Windows](https://github.com/aashishbagmar/Holo-For-Windows)
+
+<br/>
+
+**Interests**
+
+`LLMs & RAG` · `Healthcare AI` · `Computer Vision` · `Flutter` · `Full-Stack`
+
+    </td>
+  </tr>
+</table>
 
 ---
 
