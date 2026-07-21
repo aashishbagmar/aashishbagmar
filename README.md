@@ -11,16 +11,16 @@
 <br/>
 
 <p align="center">
+  <a href="https://github.com/aashishbagmar?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=0ea5e9&amp;color=0d1117"/>
+  </a>
   <a href="https://github.com/aashishbagmar">
-    <img height="145" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashishbagmar&amp;theme=tokyo_night"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=14b8a6&amp;color=0d1117"/>
   </a>
   <a href="https://github.com/aashishbagmar?tab=repositories">
-    <img height="145" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishbagmar&amp;theme=tokyo_night"/>
+    <img alt="Public repos" src="https://img.shields.io/badge/Repos-36-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=06b6d4&amp;color=0d1117"/>
   </a>
-</p>
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Profile%20Views&amp;color=14b8a6&amp;style=for-the-badge&amp;labelColor=0ea5e9"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=14b8a6&amp;style=for-the-badge&amp;labelColor=0891b2&amp;color=0d1117"/>
 </p>
 
 <br/>
@@ -177,14 +177,6 @@ This profile README covers **repositories and GitHub activity** only. For experi
 </p>
 
 <sub>Stats are fetched from the GitHub API. Badge counts update frequently; chart cards may take a few hours to refresh because GitHub caches README images.</sub>
-
----
-
-### Highlights
-
-<p align="center">
-  <img alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashishbagmar&amp;theme=tokyo_night"/>
-</p>
 
 ---
 
