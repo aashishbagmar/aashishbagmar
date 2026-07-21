@@ -158,23 +158,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
 
 ---
 
-### Links
+### Contribution Activity
 
 <div align="center">
-
-<a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none;">
-  <span style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 20px; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
-    36 Public Repos
-  </span>
-</a>
-&nbsp;&nbsp;
-<a href="https://aashish.codes" style="text-decoration: none;">
-  <span style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 20px; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
-    Full Profile — aashish.codes
-  </span>
-</a>
-
-<br/><br/>
 
 <img src="https://raw.githubusercontent.com/aashishbagmar/aashishbagmar/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity"/>
 
