@@ -146,7 +146,7 @@ This profile README covers **repositories and GitHub activity** only. For experi
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishbagmar&amp;theme=tokyo_night"/>
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;hide=commits,prs,issues,contributed&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;icon_color=0ea5e9&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
   <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
 </p>
 
@@ -154,7 +154,7 @@ This profile README covers **repositories and GitHub activity** only. For experi
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=0ea5e9&amp;fire=14b8a6&amp;currStreakLabel=14b8a6"/>
 </p>
 
-<sub>Your profile activity tab shows contributions in the <strong>last 12 months</strong> (e.g. 639). The profile-details card shows <strong>all-time</strong> contributions — that is expected to differ. Removed the old card that showed <strong>total commits</strong> (439), which is a separate metric.</sub>
+<sub>Cards may cache for a few hours. For contribution totals, use your GitHub profile activity tab — third-party cards often show different numbers.</sub>
 
 ---
 
