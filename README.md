@@ -10,28 +10,10 @@
 
 <br/>
 
-<table align="center" cellspacing="10">
-  <tr>
-    <td align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 16px;">
-      <a href="https://github.com/aashishbagmar?tab=followers" style="text-decoration: none;">
-        <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=transparent&amp;color=00e5a0"/>
-      </a>
-    </td>
-    <td align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 16px;">
-      <a href="https://github.com/aashishbagmar" style="text-decoration: none;">
-        <img alt="Stars" src="https://img.shields.io/github/stars/aashishbagmar?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=transparent&amp;color=00e5a0"/>
-      </a>
-    </td>
-    <td align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 16px;">
-      <a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none;">
-        <img alt="Public repos" src="https://img.shields.io/badge/Repos-36-00e5a0?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=transparent"/>
-      </a>
-    </td>
-    <td align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 16px;">
-      <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=00e5a0&amp;style=flat&amp;labelColor=transparent"/>
-    </td>
-  </tr>
-</table>
+[![Followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;label=Followers&amp;labelColor=111926&amp;color=00e5a0)](https://github.com/aashishbagmar?tab=followers)
+[![Stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;label=Stars&amp;labelColor=111926&amp;color=00e5a0)](https://github.com/aashishbagmar)
+[![Repos](https://img.shields.io/badge/Repos-36-00e5a0?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;labelColor=111926)](https://github.com/aashishbagmar?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=00e5a0&amp;style=for-the-badge&amp;labelColor=111926)](https://github.com/aashishbagmar)
 
 <br/>
 
@@ -198,20 +180,17 @@ This profile README covers **repositories and GitHub activity** only. For experi
 
 <div align="center">
 
-<table align="center" cellspacing="12">
-  <tr>
-    <td align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 20px;">
-      <a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
-        36 Public Repos
-      </a>
-    </td>
-    <td align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 20px;">
-      <a href="https://aashish.codes" style="text-decoration: none; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
-        Full Profile — aashish.codes
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none;">
+  <span style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 20px; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
+    36 Public Repos
+  </span>
+</a>
+&nbsp;&nbsp;
+<a href="https://aashish.codes" style="text-decoration: none;">
+  <span style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 12px 20px; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
+    Full Profile — aashish.codes
+  </span>
+</a>
 
 <br/><br/>
 
