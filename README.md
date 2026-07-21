@@ -10,20 +10,28 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161b22&amp;color=0ea5e9)](https://github.com/aashishbagmar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161b22&amp;color=14b8a6)](https://github.com/aashishbagmar)
-[![Public Repos](https://img.shields.io/badge/Repos-36-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161b22)](https://github.com/aashishbagmar?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Profile%20Views&amp;color=0891b2&amp;style=for-the-badge&amp;labelColor=161b22)](https://github.com/aashishbagmar)
+<p align="center">
+  <a href="https://github.com/aashishbagmar?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=0ea5e9&amp;color=0d1117"/>
+  </a>
+  <a href="https://github.com/aashishbagmar">
+    <img alt="Stars" src="https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=14b8a6&amp;color=0d1117"/>
+  </a>
+  <a href="https://github.com/aashishbagmar?tab=repositories">
+    <img alt="Public repos" src="https://img.shields.io/badge/Repos-36-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=06b6d4&amp;color=0d1117"/>
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=14b8a6&amp;style=for-the-badge&amp;labelColor=0891b2&amp;color=0d1117"/>
+</p>
 
-<br/><br/>
+<br/>
 
 <a href="https://aashish.codes">
-  <img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:0ea5e9,50:14b8a6,100:06b6d4&amp;height=58&amp;section=header&amp;text=Portfolio%20%7C%20aashish.codes&amp;fontSize=20&amp;fontColor=ffffff&amp;stroke=ffffff&amp;strokeWidth=0.5"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0ea5e9,100:14b8a6&amp;height=52&amp;section=footer&amp;text=View%20Portfolio%20%E2%80%94%20aashish.codes&amp;fontSize=18&amp;fontColor=ffffff&amp;animation=twinkling&amp;stroke=06b6d4&amp;strokeWidth=1"/>
 </a>
 
 <br/>
 
-<sub>Experience, resume &amp; contact → <a href="https://aashish.codes">aashish.codes</a> &nbsp;|&nbsp; This README is code &amp; GitHub only</sub>
+<sub>Experience, resume, and contact live on the portfolio — this README is code &amp; GitHub only.</sub>
 
 </div>
 
@@ -31,25 +39,21 @@
 
 ### About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white&amp;labelColor=161b22"/>
-  <img src="https://img.shields.io/badge/FastAPI-14b8a6?style=flat-square&amp;logo=fastapi&amp;logoColor=white&amp;labelColor=161b22"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white&amp;labelColor=161b22"/>
-  <img src="https://img.shields.io/badge/LangGraph-0ea5e9?style=flat-square&amp;labelColor=161b22"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&amp;logo=c-sharp&amp;logoColor=white&amp;labelColor=161b22"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=c-sharp&amp;logoColor=white)
 
 > I build and maintain **open-source AI/ML projects** — RAG pipelines, healthcare voice agents, document AI, and full-stack apps.
 
-This README covers **repositories and GitHub activity** only. Full profile → **[aashish.codes](https://aashish.codes)**
+This profile README covers **repositories and GitHub activity** only. For experience, resume, certifications, and contact, visit **[aashish.codes](https://aashish.codes)**.
 
 **Repo themes:** `LLM & RAG` · `Healthcare AI` · `Computer Vision` · `Python / FastAPI` · `C# / .NET`
 
-| Project | Description |
-|---------|-------------|
-| [**CareCaller-AI**](https://github.com/aashishbagmar/CareCaller-AI) | Voice agent & clinical risk ML pipeline |
-| [**Express Analytics RAG**](https://github.com/aashishbagmar/express-analytics-rag-assistant) | Self-corrective RAG with LangGraph & ChromaDB |
-| [**DocMind-PDF**](https://github.com/aashishbagmar/DocMind-Pdf) · [**Holo-For-Windows**](https://github.com/aashishbagmar/Holo-For-Windows) · [**AI-Stock-Prediction**](https://github.com/aashishbagmar/AI-Stock-Prediction) | + **36 public repos** → [view all](https://github.com/aashishbagmar?tab=repositories) |
+- **CareCaller-AI** — voice agent & clinical risk ML pipeline
+- **Express Analytics RAG** — self-corrective RAG with LangGraph & ChromaDB
+- **DocMind-PDF**, **Holo-For-Windows**, **AI-Stock-Prediction**, and more across **36 public repos**
 
 ---
 
@@ -117,7 +121,7 @@ This README covers **repositories and GitHub activity** only. Full profile → *
 
 <p align="center">
   <a href="https://github.com/aashishbagmar?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%2036%20Repositories-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161b22"/>
+    <img src="https://img.shields.io/badge/View%20All%2036%20Repositories-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
   </a>
 </p>
 
@@ -164,23 +168,26 @@ This README covers **repositories and GitHub activity** only. Full profile → *
 ### GitHub Analytics
 
 <p align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=false&amp;border_radius=10&amp;border_color=0ea5e9&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;icon_color=0ea5e9&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
-  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=10&amp;border_color=14b8a6&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
+  <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;icon_color=0ea5e9&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=false&amp;border_radius=10&amp;border=0ea5e9&amp;background=0D1117&amp;ring=0ea5e9&amp;fire=14b8a6&amp;currStreakLabel=14b8a6"/>
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=aashishbagmar&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=0ea5e9&amp;fire=14b8a6&amp;currStreakLabel=14b8a6"/>
 </p>
 
 <sub>Stats are fetched from the GitHub API. Badge counts update frequently; chart cards may take a few hours to refresh because GitHub caches README images.</sub>
 
 ---
 
-### Activity
+### Links
 
 <div align="center">
 
-[![All Repositories](https://img.shields.io/badge/View%20All%20Repositories-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=161b22)](https://github.com/aashishbagmar?tab=repositories)
+[![GitHub Repositories](https://img.shields.io/badge/GitHub-36%20Public%20Repos-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar?tab=repositories)
+<a href="https://aashish.codes">
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0ea5e9,100:14b8a6&amp;height=48&amp;section=footer&amp;text=Full%20Profile%20%E2%80%94%20aashish.codes&amp;fontSize=16&amp;fontColor=ffffff&amp;animation=twinkling&amp;stroke=06b6d4&amp;strokeWidth=1"/>
+</a>
 
 <br/><br/>
 
