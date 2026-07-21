@@ -90,15 +90,7 @@ This profile README covers **repositories and GitHub activity** only. For experi
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><strong>Kankariya</strong></h3>
-      <p><small>Modern web application deployed on Vercel — clean UI and responsive design. <a href="https://kankariya.vercel.app">View site →</a></small></p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><strong>AI Stock Prediction</strong></h3>
       <p><small>ML-powered stock market analysis and prediction using time-series data and ensemble models. <a href="https://github.com/aashishbagmar/AI-Stock-Prediction">View repo →</a></small></p>
       <p>
