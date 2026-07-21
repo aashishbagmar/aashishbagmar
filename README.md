@@ -13,45 +13,46 @@
 [![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&color=0ea5e9)](https://github.com/aashishbagmar?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&color=14b8a6)](https://github.com/aashishbagmar)
 [![Profile Views](https://komarev.com/ghpvc/?username=aashishbagmar&label=Profile%20Views&color=06b6d4&style=for-the-badge)](https://github.com/aashishbagmar)
+[![Public Repos](https://img.shields.io/github/public-repos/aashishbagmar?label=Public%20Repos&amp;style=for-the-badge&amp;color=06b6d4)](https://github.com/aashishbagmar?tab=repositories)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aashishbagmar.github.io-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashish.codes)
-[![Email](https://img.shields.io/badge/Email-bagmaraashish@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:bagmaraashish@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aashishbagmar)
+[![Portfolio](https://img.shields.io/badge/Full%20Profile-aashish.codes-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white&amp;labelColor=0d1117)](https://aashish.codes)
+
+<br/>
+
+<sub>Experience, resume, and contact live on the portfolio — this README is code &amp; GitHub only.</sub>
 
 </div>
 
 ---
 
-### 👋 About Me
+### About
 
-![Role](https://img.shields.io/badge/Role-AI%20and%20ML%20Engineer-14b8a6?style=flat-square)
-![Location](https://img.shields.io/badge/Location-India-0ea5e9?style=flat-square)
-![Education](https://img.shields.io/badge/Education-B.E.%20AI%20and%20Data%20Science%20(SPPU)-06b6d4?style=flat-square)
-![Mindset](https://img.shields.io/badge/Mindset-Always%20learning%20new%20tech-06b6d4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&amp;logo=c-sharp&amp;logoColor=white)
 
-> *Always ready to try new technologies — I build intelligent systems that solve real-world problems and make everything feel colorful.* 🚀
+> I build and maintain **open-source AI/ML projects** — RAG pipelines, healthcare voice agents, document AI, and full-stack apps.
 
-I'm an **AI & ML engineer** passionate about turning cutting-edge research into production-ready applications. From **healthcare voice agents** that predict clinical risk to **self-corrective RAG pipelines** — I love building systems that make a real impact.
+This profile README covers **repositories and GitHub activity** only. For experience, resume, certifications, and contact, visit **[aashish.codes](https://aashish.codes)**.
 
-**Interests:** `Large Language Models & RAG` · `Healthcare AI & Voice Agents` · `Computer Vision` · `Full-Stack Development`
+**Repo themes:** `LLM & RAG` · `Healthcare AI` · `Computer Vision` · `Python / FastAPI` · `C# / .NET`
 
-- 🔭 Currently working on **AI agents**, **RAG systems**, and **ML pipelines**
-- 🎨 Always ready to **try new technologies** — from voice AI to RAG to full-stack
-- 🌱 Exploring **LangGraph**, **voice AI**, and **edge ML deployment**
-- 💡 Hackathon builder — VoiceHack 2026, Meta Scaler & more
-- 📫 Reach me at **bagmaraashish@gmail.com**
-- ⚡ Fun fact: I port macOS apps to Windows for fun *(see Holo-For-Windows)*
+- **CareCaller-AI** — voice agent & clinical risk ML pipeline
+- **Express Analytics RAG** — self-corrective RAG with LangGraph & ChromaDB
+- **DocMind-PDF**, **Holo-For-Windows**, **AI-Stock-Prediction**, and more across **36 public repos**
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏥 <a href="https://github.com/aashishbagmar/CareCaller-AI">CareCaller-AI</a></h4>
+      <h4><a href="https://github.com/aashishbagmar/CareCaller-AI">CareCaller-AI</a></h4>
       <p>Healthcare AI voice agent & ML pipeline — patient check-ins, medical adherence extraction, and real-time clinical risk prediction. Built for <strong>VoiceHack 2026</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
@@ -60,7 +61,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/aashishbagmar/express-analytics-rag-assistant">Express Analytics RAG</a></h4>
+      <h4><a href="https://github.com/aashishbagmar/express-analytics-rag-assistant">Express Analytics RAG</a></h4>
       <p>Self-corrective RAG assistant with <strong>LangGraph</strong>, <strong>FastAPI</strong>, <strong>ChromaDB</strong>, and <strong>Streamlit</strong>. PDF/DOCX ingestion, citations, and document grading.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
@@ -71,7 +72,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🖥️ <a href="https://github.com/aashishbagmar/Holo-For-Windows">Holo-For-Windows</a></h4>
+      <h4><a href="https://github.com/aashishbagmar/Holo-For-Windows">Holo-For-Windows</a></h4>
       <p>Experimental Windows port of Holo — desk tap-zone detection via <strong>C# .NET 8</strong>, <strong>WPF</strong> UI, and <strong>WASAPI</strong> audio capture.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&amp;logo=c-sharp&amp;logoColor=white"/>
@@ -80,7 +81,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📄 <a href="https://github.com/aashishbagmar/DocMind-Pdf">DocMind-PDF</a></h4>
+      <h4><a href="https://github.com/aashishbagmar/DocMind-Pdf">DocMind-PDF</a></h4>
       <p>Intelligent PDF processing & document understanding powered by AI — extract, analyze, and interact with your documents.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
@@ -90,7 +91,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 <a href="https://kankariya.vercel.app">Kankariya</a></h4>
+      <h4><a href="https://kankariya.vercel.app">Kankariya</a></h4>
       <p>Modern web application deployed on Vercel — clean UI and responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"/>
@@ -98,7 +99,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/aashishbagmar/AI-Stock-Prediction">AI Stock Prediction</a></h4>
+      <h4><a href="https://github.com/aashishbagmar/AI-Stock-Prediction">AI Stock Prediction</a></h4>
       <p>ML-powered stock market analysis and prediction using time-series data and ensemble models.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
@@ -116,7 +117,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
@@ -154,7 +155,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img alt="Total Stars" src="https://img.shields.io/github/stars/aashishbagmar?label=Stars&amp;style=for-the-badge&amp;color=14b8a6"/>
@@ -175,7 +176,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 ---
 
-### 🏆 GitHub Highlights
+### GitHub Highlights
 
 <p align="center">
   <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishbagmar&amp;theme=tokyo_night"/>
@@ -183,17 +184,16 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 ---
 
-### 🤝 Let's Connect
+### Links
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-aashishbagmar-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashish.codes)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:bagmaraashish@gmail.com)
+[![GitHub Repositories](https://img.shields.io/badge/GitHub-36%20Public%20Repos-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Full%20Profile-aashish.codes-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white&amp;labelColor=0d1117)](https://aashish.codes)
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/aashishbagmar/aashishbagmar/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/aashishbagmar/aashishbagmar/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -203,7 +203,7 @@ I'm an **AI & ML engineer** passionate about turning cutting-edge research into 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0ea5e9,50:14b8a6,100:06b6d4&amp;height=100&amp;section=footer"/>
 
-**Thanks for visiting!** If you like my work, consider giving a ⭐ to my repositories.
+**Thanks for visiting.** Repos and stats stay here — everything else is at **[aashish.codes](https://aashish.codes)**.
 
 *"The best way to predict the future is to build it."*
 
