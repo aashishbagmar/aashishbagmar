@@ -10,23 +10,35 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/aashishbagmar?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=0ea5e9&amp;color=0d1117"/>
-  </a>
-  <a href="https://github.com/aashishbagmar">
-    <img alt="Stars" src="https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=14b8a6&amp;color=0d1117"/>
-  </a>
-  <a href="https://github.com/aashishbagmar?tab=repositories">
-    <img alt="Public repos" src="https://img.shields.io/badge/Repos-36-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=06b6d4&amp;color=0d1117"/>
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=14b8a6&amp;style=for-the-badge&amp;labelColor=0891b2&amp;color=0d1117"/>
-</p>
+<table align="center" cellspacing="10">
+  <tr>
+    <td align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 12px 16px;">
+      <a href="https://github.com/aashishbagmar?tab=followers" style="text-decoration: none;">
+        <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;labelColor=transparent&amp;color=0ea5e9"/>
+      </a>
+    </td>
+    <td align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 12px 16px;">
+      <a href="https://github.com/aashishbagmar" style="text-decoration: none;">
+        <img alt="Stars" src="https://img.shields.io/github/stars/aashishbagmar?style=flat&amp;logo=github&amp;logoColor=white&amp;label=Stars&amp;labelColor=transparent&amp;color=14b8a6"/>
+      </a>
+    </td>
+    <td align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 12px 16px;">
+      <a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none;">
+        <img alt="Public repos" src="https://img.shields.io/badge/Repos-36-06b6d4?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=transparent"/>
+      </a>
+    </td>
+    <td align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 12px 16px;">
+      <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=0891b2&amp;style=flat&amp;labelColor=transparent"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<a href="https://aashish.codes">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0ea5e9,100:14b8a6&amp;height=52&amp;section=footer&amp;text=View%20Portfolio%20%E2%80%94%20aashish.codes&amp;fontSize=18&amp;fontColor=ffffff&amp;animation=twinkling&amp;stroke=06b6d4&amp;strokeWidth=1"/>
+<a href="https://aashish.codes" style="text-decoration: none;">
+  <div align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 14px 32px; color: #14b8a6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; letter-spacing: 0.3px;">
+    View Portfolio — aashish.codes
+  </div>
 </a>
 
 <br/>
@@ -120,8 +132,10 @@ This profile README covers **repositories and GitHub activity** only. For experi
 </table>
 
 <p align="center">
-  <a href="https://github.com/aashishbagmar?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%2036%20Repositories-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  <a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none;">
+    <span style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 10px 22px; color: #0ea5e9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
+      View All 36 Repositories
+    </span>
   </a>
 </p>
 
@@ -184,10 +198,20 @@ This profile README covers **repositories and GitHub activity** only. For experi
 
 <div align="center">
 
-[![GitHub Repositories](https://img.shields.io/badge/GitHub-36%20Public%20Repos-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar?tab=repositories)
-<a href="https://aashish.codes">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0ea5e9,100:14b8a6&amp;height=48&amp;section=footer&amp;text=Full%20Profile%20%E2%80%94%20aashish.codes&amp;fontSize=16&amp;fontColor=ffffff&amp;animation=twinkling&amp;stroke=06b6d4&amp;strokeWidth=1"/>
-</a>
+<table align="center" cellspacing="12">
+  <tr>
+    <td align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 12px 20px;">
+      <a href="https://github.com/aashishbagmar?tab=repositories" style="text-decoration: none; color: #0ea5e9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
+        36 Public Repos
+      </a>
+    </td>
+    <td align="center" style="background-color: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 12px 20px;">
+      <a href="https://aashish.codes" style="text-decoration: none; color: #14b8a6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600;">
+        Full Profile — aashish.codes
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
