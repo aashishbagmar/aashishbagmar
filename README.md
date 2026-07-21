@@ -52,7 +52,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/aashishbagmar/CareCaller-AI"><b><font color="#00e5a0">CareCaller-AI</font></b></a></h4>
+      <a href="https://github.com/aashishbagmar/CareCaller-AI">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=CareCaller-AI" alt="CareCaller-AI"/>
+      </a>
       <p>Healthcare AI voice agent & ML pipeline — patient check-ins, medical adherence extraction, and real-time clinical risk prediction. Built for <strong>VoiceHack 2026</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
@@ -61,7 +63,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/aashishbagmar/express-analytics-rag-assistant"><b><font color="#00e5a0">Express Analytics RAG</font></b></a></h4>
+      <a href="https://github.com/aashishbagmar/express-analytics-rag-assistant">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=Express%20Analytics%20RAG" alt="Express Analytics RAG"/>
+      </a>
       <p>Self-corrective RAG assistant with <strong>LangGraph</strong>, <strong>FastAPI</strong>, <strong>ChromaDB</strong>, and <strong>Streamlit</strong>. PDF/DOCX ingestion, citations, and document grading.</p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
@@ -72,7 +76,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/aashishbagmar/Holo-For-Windows"><b><font color="#00e5a0">Holo-For-Windows</font></b></a></h4>
+      <a href="https://github.com/aashishbagmar/Holo-For-Windows">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=Holo-For-Windows" alt="Holo-For-Windows"/>
+      </a>
       <p>Experimental Windows port of Holo — desk tap-zone detection via <strong>C# .NET 8</strong>, <strong>WPF</strong> UI, and <strong>WASAPI</strong> audio capture.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&amp;logo=c-sharp&amp;logoColor=white"/>
@@ -81,7 +87,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/aashishbagmar/DocMind-Pdf"><b><font color="#00e5a0">DocMind-PDF</font></b></a></h4>
+      <a href="https://github.com/aashishbagmar/DocMind-Pdf">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=DocMind-PDF" alt="DocMind-PDF"/>
+      </a>
       <p>Intelligent PDF processing & document understanding powered by AI — extract, analyze, and interact with your documents.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
@@ -91,7 +99,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://kankariya.vercel.app"><b><font color="#00e5a0">Kankariya</font></b></a></h4>
+      <a href="https://kankariya.vercel.app">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=Kankariya" alt="Kankariya"/>
+      </a>
       <p>Modern web application deployed on Vercel — clean UI and responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"/>
@@ -99,7 +109,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/aashishbagmar/AI-Stock-Prediction"><b><font color="#00e5a0">AI Stock Prediction</font></b></a></h4>
+      <a href="https://github.com/aashishbagmar/AI-Stock-Prediction">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=AI%20Stock%20Prediction" alt="AI Stock Prediction"/>
+      </a>
       <p>ML-powered stock market analysis and prediction using time-series data and ensemble models.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
