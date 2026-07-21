@@ -52,10 +52,8 @@ This profile README covers **repositories and GitHub activity** only. For experi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aashishbagmar/CareCaller-AI">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=CareCaller-AI" alt="CareCaller-AI"/>
-      </a>
-      <p>Healthcare AI voice agent & ML pipeline — patient check-ins, medical adherence extraction, and real-time clinical risk prediction. Built for <strong>VoiceHack 2026</strong>.</p>
+      <h4><strong>CareCaller-AI</strong></h4>
+      <p>Healthcare AI voice agent & ML pipeline — patient check-ins, medical adherence extraction, and real-time clinical risk prediction. Built for <strong>VoiceHack 2026</strong>. <a href="https://github.com/aashishbagmar/CareCaller-AI">View repo →</a></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
         <img src="https://img.shields.io/badge/Voice%20AI-14b8a6?style=flat"/>
@@ -63,10 +61,8 @@ This profile README covers **repositories and GitHub activity** only. For experi
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aashishbagmar/express-analytics-rag-assistant">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=Express%20Analytics%20RAG" alt="Express Analytics RAG"/>
-      </a>
-      <p>Self-corrective RAG assistant with <strong>LangGraph</strong>, <strong>FastAPI</strong>, <strong>ChromaDB</strong>, and <strong>Streamlit</strong>. PDF/DOCX ingestion, citations, and document grading.</p>
+      <h4><strong>Express Analytics RAG</strong></h4>
+      <p>Self-corrective RAG assistant with <strong>LangGraph</strong>, <strong>FastAPI</strong>, <strong>ChromaDB</strong>, and <strong>Streamlit</strong>. PDF/DOCX ingestion, citations, and document grading. <a href="https://github.com/aashishbagmar/express-analytics-rag-assistant">View repo →</a></p>
       <p>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&amp;logo=fastapi&amp;logoColor=white"/>
@@ -76,10 +72,8 @@ This profile README covers **repositories and GitHub activity** only. For experi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aashishbagmar/Holo-For-Windows">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=Holo-For-Windows" alt="Holo-For-Windows"/>
-      </a>
-      <p>Experimental Windows port of Holo — desk tap-zone detection via <strong>C# .NET 8</strong>, <strong>WPF</strong> UI, and <strong>WASAPI</strong> audio capture.</p>
+      <h4><strong>Holo-For-Windows</strong></h4>
+      <p>Experimental Windows port of Holo — desk tap-zone detection via <strong>C# .NET 8</strong>, <strong>WPF</strong> UI, and <strong>WASAPI</strong> audio capture. <a href="https://github.com/aashishbagmar/Holo-For-Windows">View repo →</a></p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat&amp;logo=c-sharp&amp;logoColor=white"/>
         <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&amp;logo=dotnet&amp;logoColor=white"/>
@@ -87,10 +81,8 @@ This profile README covers **repositories and GitHub activity** only. For experi
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aashishbagmar/DocMind-Pdf">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=DocMind-PDF" alt="DocMind-PDF"/>
-      </a>
-      <p>Intelligent PDF processing & document understanding powered by AI — extract, analyze, and interact with your documents.</p>
+      <h4><strong>DocMind-PDF</strong></h4>
+      <p>Intelligent PDF processing & document understanding powered by AI — extract, analyze, and interact with your documents. <a href="https://github.com/aashishbagmar/DocMind-Pdf">View repo →</a></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
         <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat"/>
@@ -99,20 +91,16 @@ This profile README covers **repositories and GitHub activity** only. For experi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://kankariya.vercel.app">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=Kankariya" alt="Kankariya"/>
-      </a>
-      <p>Modern web application deployed on Vercel — clean UI and responsive design.</p>
+      <h4><strong>Kankariya</strong></h4>
+      <p>Modern web application deployed on Vercel — clean UI and responsive design. <a href="https://kankariya.vercel.app">View site →</a></p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat&amp;logo=vercel&amp;logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aashishbagmar/AI-Stock-Prediction">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=&amp;labelColor=111926&amp;color=065f46&amp;message=AI%20Stock%20Prediction" alt="AI Stock Prediction"/>
-      </a>
-      <p>ML-powered stock market analysis and prediction using time-series data and ensemble models.</p>
+      <h4><strong>AI Stock Prediction</strong></h4>
+      <p>ML-powered stock market analysis and prediction using time-series data and ensemble models. <a href="https://github.com/aashishbagmar/AI-Stock-Prediction">View repo →</a></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat&amp;logo=pandas&amp;logoColor=white"/>
