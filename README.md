@@ -10,14 +10,16 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&color=0ea5e9)](https://github.com/aashishbagmar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&color=14b8a6)](https://github.com/aashishbagmar)
+[![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;color=0ea5e9)](https://github.com/aashishbagmar?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;color=14b8a6)](https://github.com/aashishbagmar)
 [![Profile Views](https://komarev.com/ghpvc/?username=aashishbagmar&label=Profile%20Views&color=06b6d4&style=for-the-badge)](https://github.com/aashishbagmar)
-[![Public Repos](https://img.shields.io/github/public-repos/aashishbagmar?label=Public%20Repos&amp;style=for-the-badge&amp;color=06b6d4)](https://github.com/aashishbagmar?tab=repositories)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-36-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar?tab=repositories)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Full%20Profile-aashish.codes-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white&amp;labelColor=0d1117)](https://aashish.codes)
+<a href="https://aashish.codes">
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0ea5e9,100:14b8a6&amp;height=52&amp;section=footer&amp;text=View%20Portfolio%20%E2%80%94%20aashish.codes&amp;fontSize=18&amp;fontColor=ffffff&amp;animation=twinkling&amp;stroke=06b6d4&amp;strokeWidth=1"/>
+</a>
 
 <br/>
 
@@ -189,7 +191,9 @@ This profile README covers **repositories and GitHub activity** only. For experi
 <div align="center">
 
 [![GitHub Repositories](https://img.shields.io/badge/GitHub-36%20Public%20Repos-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Full%20Profile-aashish.codes-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white&amp;labelColor=0d1117)](https://aashish.codes)
+<a href="https://aashish.codes">
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:0ea5e9,100:14b8a6&amp;height=48&amp;section=footer&amp;text=Full%20Profile%20%E2%80%94%20aashish.codes&amp;fontSize=16&amp;fontColor=ffffff&amp;animation=twinkling&amp;stroke=06b6d4&amp;strokeWidth=1"/>
+</a>
 
 <br/><br/>
 
