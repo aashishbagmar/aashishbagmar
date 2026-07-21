@@ -16,7 +16,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aashishbagmar.github.io-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashishbagmar.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aashishbagmar.github.io-0ea5e9?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://aashish.codes)
 [![Email](https://img.shields.io/badge/Email-bagmaraashish@gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:bagmaraashish@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aashishbagmar)
 
