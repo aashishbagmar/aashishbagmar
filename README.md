@@ -10,10 +10,10 @@
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;label=Followers&amp;labelColor=111926&amp;color=00e5a0)](https://github.com/aashishbagmar?tab=followers)
-[![Stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;label=Stars&amp;labelColor=111926&amp;color=00e5a0)](https://github.com/aashishbagmar)
-[![Repos](https://img.shields.io/badge/Repos-36-00e5a0?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;labelColor=111926)](https://github.com/aashishbagmar?tab=repositories)
-[![Views](https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=00e5a0&amp;style=for-the-badge&amp;labelColor=111926)](https://github.com/aashishbagmar)
+[![Followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;label=Followers&amp;labelColor=111926&amp;color=065f46)](https://github.com/aashishbagmar?tab=followers)
+[![Stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;label=Stars&amp;labelColor=111926&amp;color=065f46)](https://github.com/aashishbagmar)
+[![Repos](https://img.shields.io/badge/Repos-36-065f46?style=for-the-badge&amp;logo=github&amp;logoColor=00e5a0&amp;labelColor=111926)](https://github.com/aashishbagmar?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Views&amp;color=065f46&amp;style=for-the-badge&amp;labelColor=111926)](https://github.com/aashishbagmar)
 
 <br/>
 
