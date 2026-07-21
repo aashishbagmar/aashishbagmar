@@ -17,11 +17,7 @@
 
 <br/>
 
-<a href="https://aashish.codes" style="text-decoration: none;">
-  <div align="center" style="background-color: #111926; border: 1px solid rgba(0,229,160,0.2); box-shadow: 0 0 20px rgba(0,229,160,0.15); border-radius: 16px; padding: 14px 32px; color: #00e5a0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 600; letter-spacing: 0.3px;">
-    View Portfolio — aashish.codes
-  </div>
-</a>
+[![View Portfolio — aashish.codes](https://img.shields.io/badge/View_Portfolio-aashish.codes-065f46?style=for-the-badge&amp;labelColor=111926&amp;logo=googlechrome&amp;logoColor=00e5a0)](https://aashish.codes)
 
 <br/>
 
