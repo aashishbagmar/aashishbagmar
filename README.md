@@ -10,10 +10,18 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/aashishbagmar?style=for-the-badge&amp;logo=github&amp;color=0ea5e9)](https://github.com/aashishbagmar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/aashishbagmar?style=for-the-badge&amp;logo=github&amp;color=14b8a6)](https://github.com/aashishbagmar)
-[![Profile Views](https://komarev.com/ghpvc/?username=aashishbagmar&label=Profile%20Views&color=06b6d4&style=for-the-badge)](https://github.com/aashishbagmar)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-36-06b6d4?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/aashishbagmar?tab=repositories)
+<p align="center">
+  <a href="https://github.com/aashishbagmar">
+    <img height="145" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashishbagmar&amp;theme=tokyo_night"/>
+  </a>
+  <a href="https://github.com/aashishbagmar?tab=repositories">
+    <img height="145" alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishbagmar&amp;theme=tokyo_night"/>
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=aashishbagmar&amp;label=Profile%20Views&amp;color=14b8a6&amp;style=for-the-badge&amp;labelColor=0ea5e9"/>
+</p>
 
 <br/>
 
@@ -160,12 +168,6 @@ This profile README covers **repositories and GitHub activity** only. For experi
 ### GitHub Analytics
 
 <p align="center">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/aashishbagmar?label=Stars&amp;style=for-the-badge&amp;color=14b8a6"/>
-  <img alt="Public Repos" src="https://img.shields.io/github/public-repos/aashishbagmar?label=Public%20Repos&amp;style=for-the-badge&amp;color=0ea5e9"/>
-  <img alt="Followers" src="https://img.shields.io/github/followers/aashishbagmar?label=Followers&amp;style=for-the-badge&amp;color=06b6d4"/>
-</p>
-
-<p align="center">
   <img height="180" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aashishbagmar&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;icon_color=0ea5e9&amp;text_color=c9d1d9&amp;cache_seconds=60"/>
   <img height="180" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aashishbagmar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=14b8a6&amp;text_color=c9d1d9&amp;langs_count=6&amp;exclude_repo=clgcode,DL_LAB&amp;hide=Jupyter%20Notebook&amp;cache_seconds=60"/>
 </p>
@@ -178,10 +180,10 @@ This profile README covers **repositories and GitHub activity** only. For experi
 
 ---
 
-### GitHub Highlights
+### Highlights
 
 <p align="center">
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishbagmar&amp;theme=tokyo_night"/>
+  <img alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aashishbagmar&amp;theme=tokyo_night"/>
 </p>
 
 ---
